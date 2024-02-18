@@ -53,6 +53,11 @@
 - For each of our data , constructors , getters and setters are created.
 # ![entity](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/f50b6d8a-bbaa-4778-9303-57dc56355183)
 
+## _Exception Layers :_ ##
+- 
+- @ExceptionHandler annotation provided by Spring Boot can be used to handle exceptions in particular Handler classes or Handler methods.
+# ![exceptionhandler](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/3888d317-181f-4a27-8530-f1039aff984d)
+
 
 # API Reference 
 ## Add Item
