@@ -16,7 +16,7 @@
 
 # Tools & Technologies used  :
 
-+ Java
+- Java
 - Spring Boot
 - Postman
 - MySql
@@ -29,37 +29,30 @@
 
 # ![dependenciesz](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/073c0a81-7256-4438-96dc-3ec63b557c33)
 
-
-
-
-
-
-
-
-
-
-# 
-
 # Data Flow 
 ## _Controller Layer :_ ##
 - It consists of UserController class which basically control the flow of data.
 - @RestController annotation is used to make the UserController class as controller layer.
 - @GetMapping , @PostMapping , @PutMapping , @DeleteMapping annotations are used to perform the CRUD operations.
-# ![controller](https://github.com/sugu0312/BookStoreManagement/assets/139035083/1c439709-e6a1-4928-8d4a-970b917431bc)
+# ![controller](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/dda16bc1-1a41-4b5a-af42-8ed0cdc05acc)
+
 ## _Service Layer :_ ##
 - It consists of UserService class which helps us to write the business functionalities.
 - @Service annotation is used to make the class as a service layer.
-# ![service](https://github.com/sugu0312/BookStoreManagement/assets/139035083/d66c7e50-c425-40cf-b9e4-e5e6208fa109)
+# ![service](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/1086f024-80cf-47b3-9426-ae3f6c6d6532)
+
 
 ## _Repositary Layer :_ ##
 - It consists of UserDao which is used to manage the datas.
 - @Repository annotation is used to make the class repository layer.
-# ![repo](https://github.com/sugu0312/BookStoreManagement/assets/139035083/cafb0523-ff78-4f79-bbaf-a60af22c92c1)
+# ![repo](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/7fdcbcf6-3ec5-42f8-86f2-d20d3227aa7d)
+
 
 ## _Entity Layer :_ ##
 - It consists of a User class which consists of Entity's used to model our data application.
 - For each of our data , constructors , getters and setters are created.
-# ![Entity](https://github.com/sugu0312/BookStoreManagement/assets/139035083/e912987f-500b-48c3-bf39-a142659c6123)
+# ![entity](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/f50b6d8a-bbaa-4778-9303-57dc56355183)
+
 
 # API Reference 
 ## Add book
