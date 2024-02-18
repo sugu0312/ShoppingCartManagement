@@ -55,24 +55,23 @@
 
 
 # API Reference 
-## Add book
-> ```http://localhost:8080/book_register```
+## Add Item
+> ```http://localhost:8080/add```
 # ![add book](https://github.com/sugu0312/BookStoreManagement/assets/139035083/d87df00b-7742-487e-9827-a2dbe8d2c7cc)
 
-## Get All Book
-> ```http://localhost:8080/available_books```
+## Get All Items
+> ```http://localhost:8080/getall```
 # ![getll all books](https://github.com/sugu0312/BookStoreManagement/assets/139035083/8424b4e6-15ac-4508-8f28-bb4489bc8f0f)
 
-## Update Book
-> ```http://localhost:8080/editBook/{id}```
+## Update Item
+> ```http://localhost:8080/update/{id}```
 # ![edit book](https://github.com/sugu0312/BookStoreManagement/assets/139035083/6b7fc6c3-db07-4ac0-bddd-505a334b5197)
 
-## Get Book By ID
+## Get Item By ID
 > ```http://localhost:8080/mylist/{id}```
 # ![getbyID](https://github.com/sugu0312/BookStoreManagement/assets/139035083/fafc4880-21f7-4e8e-9c36-e839cde6c9d3)
 
-
-## Delete Book
+## Delete Item
 > ```http://localhost:8080/deleteMyList/{id}```
 # ![deletebook](https://github.com/sugu0312/BookStoreManagement/assets/139035083/cc2ac053-8127-4b5a-8900-aeda77da5b75)
 
