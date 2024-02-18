@@ -34,7 +34,6 @@ Spring Boot Project | Shopping Cart Management System |Spring Boot Data | MySql 
 
 
 
-# Home Page :
 # 
 
 # Data Flow 
