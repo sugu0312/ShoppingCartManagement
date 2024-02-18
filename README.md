@@ -54,29 +54,32 @@
 # ![entity](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/f50b6d8a-bbaa-4778-9303-57dc56355183)
 
 ## _Exception Layers :_ ##
-- 
 - @ExceptionHandler annotation provided by Spring Boot can be used to handle exceptions in particular Handler classes or Handler methods.
+-  We have an Shopping Cart Managament System. It contains an API to fetch an Item by ID. ShoppingService throws the exception ProductNotFoundException if an Item is not found.
 # ![exceptionhandler](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/3888d317-181f-4a27-8530-f1039aff984d)
 
 
 # API Reference 
 ## Add Item
 > ```http://localhost:8080/add```
-# ![add book](https://github.com/sugu0312/BookStoreManagement/assets/139035083/d87df00b-7742-487e-9827-a2dbe8d2c7cc)
+# ![add](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/a53d8c30-91ec-49c7-9ce8-3cdae4390e4e)
+
 
 ## Get All Items
 > ```http://localhost:8080/getall```
-# ![getll all books](https://github.com/sugu0312/BookStoreManagement/assets/139035083/8424b4e6-15ac-4508-8f28-bb4489bc8f0f)
+# ![getall](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/f77d1218-ec0d-4efb-8c74-13c0570eef51)
+
 
 ## Update Item
 > ```http://localhost:8080/update/{id}```
-# ![edit book](https://github.com/sugu0312/BookStoreManagement/assets/139035083/6b7fc6c3-db07-4ac0-bddd-505a334b5197)
+# 
 
 ## Get Item By ID
 > ```http://localhost:8080/mylist/{id}```
-# ![getbyID](https://github.com/sugu0312/BookStoreManagement/assets/139035083/fafc4880-21f7-4e8e-9c36-e839cde6c9d3)
+# ![getbyid](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/8e0b03cb-9c7c-432a-9d0a-d6b835e65c4d)
+
 
 ## Delete Item
 > ```http://localhost:8080/deleteMyList/{id}```
-# ![deletebook](https://github.com/sugu0312/BookStoreManagement/assets/139035083/cc2ac053-8127-4b5a-8900-aeda77da5b75)
+# 
 
