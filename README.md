@@ -1,5 +1,9 @@
 # **Shopping Cart Management System**
-Spring Boot Project | Shopping Cart Management System |Spring Boot Data | MySql | Postman | 
+# ![shoppingcart](https://github.com/sugu0312/ShoppingCartManagement/assets/139035083/348b81b3-34bf-441f-8f9c-5acd2e438a37)
+# Spring Boot Project | Shopping Cart Management System |Spring Boot Data | MySql | Postman | 
+
+
+
 
 - The aim of the project is to perform the basic CRUD operations, Like add, getById, getAll, delete and update. 
 - and also Provided the Exception handler class to update about the Exceptions.
