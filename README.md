@@ -4,7 +4,6 @@
 
 
 
-
 - The aim of the project is to perform the basic CRUD operations, Like add, getById, getAll, delete and update. 
 - and also Provided the Exception handler class to update about the Exceptions.
 
